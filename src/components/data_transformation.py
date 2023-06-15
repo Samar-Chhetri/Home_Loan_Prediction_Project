@@ -87,7 +87,7 @@ class DataTransformation:
             input_feature_train_arr = preprocessing_obj.fit_transform(input_feature_train_df)
             input_feature_test_arr = preprocessing_obj.transform(input_feature_test_df)
 
-            le = LabelEncoder()
+            le = LabelEncoder()   # For encoding target feature
             target_feature_train_arr =le.fit_transform(target_feature_train_df) 
             target_feature_test_arr = le.transform(target_feature_test_df)
 
