@@ -10,7 +10,7 @@ The company wants to automate the loan eligibility process (real-time) based on 
 # Hi, I'm Samar Chhetri! 👋
 
 
-## 🚀 About Me
+## 🚀 About Me 
 I'm a passionate data scientist who is actively learning the use of Data Science and Machine Learning is the field of Finance.
 
 ## Dataset Link
