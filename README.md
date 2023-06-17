@@ -1,5 +1,5 @@
 
-# Home Loan Appoval
+# Home Loan Appoval ( End to End Machine Learning Project )
 
 A finance company (say, ABC Company Ltd.) deals in all home loans. They have a presence across all urban, semi-urban and rural areas. The customer first applies for a home loan after that company validates the customer's eligibility for a loan.
 
