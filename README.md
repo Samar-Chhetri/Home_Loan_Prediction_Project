@@ -4,7 +4,16 @@
 A finance company (say, ABC Company Ltd.) deals in all home loans. They have a presence across all urban, semi-urban and rural areas. The customer first applies for a home loan after that company validates the customer's eligibility for a loan.
 
 ## Theme of the project
-The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem identifying the customer segments eligible for loan amounts to target these customers specifically
+The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem identifying the customer segments eligible for loan amounts to target these customers specifically.
+
+### Deployment Figure
+
+##### Before :
+![Screenshot 2023-06-19 182125](https://github.com/Samar-Chhetri/Home_Loan_Prediction_Project/assets/122675013/54fc9231-1f1b-4249-99a5-c192bfd5f674)
+
+##### After :
+![Screenshot 2023-06-19 182406](https://github.com/Samar-Chhetri/Home_Loan_Prediction_Project/assets/122675013/719f4d64-edf5-4472-8a05-76624c0e75c7)
+
 
 
 # Hi, I'm Samar Chhetri! 👋
